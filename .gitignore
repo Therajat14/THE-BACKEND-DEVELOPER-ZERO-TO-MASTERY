@@ -1,20 +1,22 @@
-# Ignore node_modules
+# Ignore node_modules and environment files
 node_modules/
-
-# Ignore environment files
 .env
+.env.local
+.env.production
+.env.development
 
-# Ignore logs
-logs/
-*.log
-
-# Ignore dependency lock files (optional)
+# Ignore dependency and build files
 package-lock.json
 yarn.lock
-
-# Ignore VS Code settings (optional)
-.vscode/
-
-# Ignore build and cache files
 dist/
-.cache/
+build/
+
+# Ignore all files in subdirectories except explicitly tracked ones
+**/*
+!**/*.md  # (Optional) Keep markdown files like README.md
+
+# Ignore IDE & OS-specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
