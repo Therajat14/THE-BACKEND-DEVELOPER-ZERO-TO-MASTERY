@@ -12,8 +12,8 @@ dist/
 build/
 
 # Ignore all files in subdirectories except explicitly tracked ones
-**/*
-!**/*.md  # (Optional) Keep markdown files like README.md
+
+
 
 # Ignore IDE & OS-specific files
 .vscode/
