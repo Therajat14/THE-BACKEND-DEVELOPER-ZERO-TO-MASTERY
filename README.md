@@ -1,7 +1,7 @@
 # 📂 THE BACKEND DEVELOPER: ZERO TO MASTERY
 
 Welcome to **THE BACKEND DEVELOPER: ZERO TO MASTERY** repository! 🚀
-This repo is dedicated to **learning, practicing, and mastering backend development** through structured learning, hands-on projects, and best practices.
+This repo is dedicated to **learning, practicing, and mastering backend development** through structured learning, hands-on projects, and best practice.
 
 ## 🎯 What This Repository Covers
 ✅ Backend fundamentals & architecture  
